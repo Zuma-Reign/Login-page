@@ -1,12 +1,10 @@
 # Login Page
 
-A simple and modern login page built with **vanilla JavaScript**, HTML, and CSS. This project demonstrates core authentication UI patterns, including email/password input fields, error handling, and clean responsive design—without any frameworks.
+A simple and modern login page built with vanilla HTML, and CSS. This project demonstrates core email/password input fields and clean responsive design—without any frameworks.
 
 ## Features
 
 - Responsive layout for desktop and mobile
-- Email and password input validation
-- Error feedback for invalid credentials
 - Clean, minimal UI design
 - Easy to integrate or customize
 
@@ -38,4 +36,4 @@ This project is licensed under the MIT License.
 ---
 
 **Project GitHub page:**  
-[https://github.com/Zuma-Reign/Login-page](https://github.com/Zuma-Reign/Login-page)
+[https://github.com/Zuma-Reign/Login-page]( https://zuma-reign.github.io/Login-page/)
