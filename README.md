@@ -36,4 +36,4 @@ This project is licensed under the MIT License.
 ---
 
 **Project GitHub page:**  
-[https://github.com/Zuma-Reign/Login-page]( https://zuma-reign.github.io/Login-page/)
+[ https://zuma-reign.github.io/Login-page/]( https://zuma-reign.github.io/Login-page/)
