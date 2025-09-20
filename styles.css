@@ -106,3 +106,83 @@ a{
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* Tablets (max 1024px) */
+@media only screen and (max-width: 1024px) {
+    section {
+        width: 75%;
+        border-radius: 150px;
+    }
+    .Sign-up-container {
+        min-height: 100%;
+    }
+    .Sign-up h1, .Sign-in h1 {
+        font-size: 2rem;
+    }
+    .Sign-up p{
+        font-size: 1.2rem;
+    }
+}
+
+ /* Small tablets and large phones (max 767px) */
+@media only screen and (max-width: 767px) {
+    body {
+        padding: 20px;
+        height: auto;
+    }
+
+    section {
+        flex-direction: column-reverse;
+        margin: 20px auto;
+        width: 100%;
+        border-radius: 50px;
+    }
+
+    .Sign-in, .Sign-up-container {
+        width: 100%;
+        border-radius: 50px;
+        min-height: auto;
+        padding: 30px 20px;
+    }
+
+    .Sign-in h1 {
+        font-size: 1.8rem;
+    }
+
+    .Sign-up h1 {
+        font-size: 2rem;
+    }
+}
+
+/* Small phones (max 480px) */
+@media only screen and (max-width: 480px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    section {
+        border-radius: 150px;
+    }
+
+    .Sign-in h1, 
+    .Sign-up h1 {
+        font-size: 1.5rem;
+    }
+
+    .Sign-up p {
+        font-size: 1rem;
+    }
+
+    form input, button, a {
+        font-size: 0.9rem;
+        padding: 8px 20px;
+    }
+
+    i {
+        margin: 5px;
+        width: 35px;
+        height: 35px;
+        padding: 8px;
+    }
+}
